@@ -1,9 +1,9 @@
 # Just files that are for testing small functions
-test/
+/test/
 
 # Checkpoint data
-checkpoint/
+/checkpoint/
 
 # Temporary storage from spark-warehouse
-notebooks/spark-warehouse/
+/notebooks/spark-warehouse/
 
